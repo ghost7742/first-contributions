@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Quentin Nicolle](https://github.com/quentinncl)
 - [Muhazzib Uddin Farooqui](https://github.com/muhazzib)
@@ -2240,6 +2240,7 @@ Orandi Harris
 - [Mike Schmitz](https://github.com/misterschmitz)
 - [Noam Kantor](https://github.com/Doise)
 - [Renan Souza](https://github.com/renanba)
+- [Nitin Srivastava](https://github.com/ghost7742)
 - [Daniel Bernstein](https://github.com/drood87)
 - [Junoothula Rashmitha Reddy](https://github.com/rashmithajunoothula)
 - [Guilemon](https://github.com/Guilemon)
